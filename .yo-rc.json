@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.ruby.sun",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.1",
+        "applicationType": "monolith",
+        "baseName": "udemy",
+        "packageName": "com.ruby.sun",
+        "packageFolder": "com/ruby/sun",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "N2NjNDNmZmY3YjBiMjljMTkxNzFjMWU1MDIzNDQ4ZGYzYzA3ZmQ3YjU1NDAyZDJmZGM5NTcxNGVmNWI4ODUzMjZmODYxOTY1YWY5NTMwNGI1NDQ0YWQwYjhmZDZkOTIyMWU2ODUzZjIxOWZlYWY0YWZkMzUyOTAzYWQ2OTNjNmU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
